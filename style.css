@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+} 
+
+p {
+    color: white;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+} 
