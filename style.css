@@ -3,7 +3,7 @@ body{
 } 
 
 #txt {
-    color: rgb(184, 245, 181);
+    color: rgba(174, 241, 180, 0.952);
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
@@ -12,13 +12,77 @@ body{
 } 
 
 #titulo{
-    color: rgb(23, 218, 81);
+    color: rgb(133, 194, 218);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: larger;
     text-align: center;    
 }
 
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#um{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 220px;
+}
+
 #fotoum{
+    height: 310px;
+    margin: 3%;
+}
+
+#txtum{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+#dois{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 220px;
+}
+
+#fotodois{
+    height: 310px;
+    margin: 3%;
+}
+
+#txtdois{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+#tres{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 220px;
+}
+
+#fototres{
+    height: 310px;
+    margin: 3%;
+}
+
+#txttres{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+/*#fotoum{
     height: 300px;
     margin: 3%;
     border-radius: 10%;
@@ -50,4 +114,4 @@ body{
     height: 250px;
     margin: 3%;
     border-radius: 3%;
-}
+}/*
