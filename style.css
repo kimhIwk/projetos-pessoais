@@ -2,8 +2,52 @@ body{
     background-color: black;
 } 
 
-p {
-    color: white;
+#txt {
+    color: rgb(184, 245, 181);
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    padding: 2% 10%;
+    text-align: center;
 } 
+
+#titulo{
+    color: rgb(23, 218, 81);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    text-align: center;    
+}
+
+#fotoum{
+    height: 300px;
+    margin: 3%;
+    border-radius: 10%;
+
+}
+
+#legum{
+    color: white;
+    float: left;
+    width: 15%;
+    border: thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+}
+
+#fotodois{
+    height: 300px;
+    margin: 3%;
+    border-radius: 10%;
+}
+
+#fototres{
+    height: 300px;
+    margin: 3%;
+    border-radius: 10%;
+}
+
+#fotoquatro{
+    height: 250px;
+    margin: 3%;
+    border-radius: 3%;
+}
