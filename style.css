@@ -122,6 +122,115 @@ body{
     padding: 3px;
     text-align: center;
 }
+
+#seis{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 220px;
+}
+
+#fotoseis{
+    height: 310px;
+    margin: 3%;
+}
+
+#txtseis{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+#sete{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 220px;
+}
+
+#fotosete{
+    height: 310px;
+    margin: 3%;
+}
+
+#txtsete{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+#oito{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 425px;
+}
+
+#fotooito{
+    width: 400px;
+    margin: 3%;
+}
+
+#txtoito{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+#nove{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 220px;
+}
+
+#fotonove{
+    height: 310px;
+    margin: 3%;
+}
+
+#txtnove{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+#dez{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 220px;
+}
+
+#fotodez{
+    height: 310px;
+    margin: 3%;
+}
+
+#txtdez{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+#rodape{
+    color: rgba(174, 241, 180, 0.952);
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center; 
+}
+
 /*#fotoum{
     height: 300px;
     margin: 3%;
