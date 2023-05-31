@@ -82,6 +82,46 @@ body{
     padding: 3px;
     text-align: center;
 }
+
+#quatro{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 220px;
+}
+
+#fotoquatro{
+    height: 250px;
+    margin: 3%;
+}
+
+#txtquatro{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+#cinco{
+    border: thin #c0c0c0 solid;
+    display: -webkit-flex;
+    flex-flow: column;
+    max-width: 220px;
+}
+
+#fotocinco{
+    height: 310px;
+    margin: 3%;
+}
+
+#txtcinco{
+    background-color: #000000;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
 /*#fotoum{
     height: 300px;
     margin: 3%;
