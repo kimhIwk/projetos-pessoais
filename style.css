@@ -3,19 +3,23 @@ body{
 } 
 
 #txt {
-    color: rgba(174, 241, 180, 0.952);
+    color: black;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     padding: 2% 10%;
     text-align: center;
+    background-color: rgba(174, 241, 180, 0.952);
+    margin: 3%;
 } 
 
 #titulo{
-    color: rgb(133, 194, 218);
+    color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: larger;
-    text-align: center;    
+    text-align: center;   
+    background-color: rgb(133, 194, 218); 
+    margin: 3%;
 }
 
 .container{
@@ -31,7 +35,7 @@ body{
 }
 
 #fotoum{
-    height: 310px;
+    height: 350px;
     margin: 3%;
 }
 
@@ -51,7 +55,7 @@ body{
 }
 
 #fotodois{
-    height: 310px;
+    height: 350px;
     margin: 3%;
 }
 
@@ -71,7 +75,7 @@ body{
 }
 
 #fototres{
-    height: 310px;
+    height: 330px;
     margin: 3%;
 }
 
@@ -87,11 +91,12 @@ body{
     border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
-    max-width: 220px;
+    max-width: 235px;
 }
 
 #fotoquatro{
     height: 250px;
+    width: 220px;
     margin: 3%;
 }
 
@@ -111,7 +116,7 @@ body{
 }
 
 #fotocinco{
-    height: 310px;
+    height: 350px;
     margin: 3%;
 }
 
@@ -131,7 +136,7 @@ body{
 }
 
 #fotoseis{
-    height: 310px;
+    height: 350px;
     margin: 3%;
 }
 
@@ -151,7 +156,7 @@ body{
 }
 
 #fotosete{
-    height: 310px;
+    height: 350px;
     margin: 3%;
 }
 
@@ -191,8 +196,8 @@ body{
 }
 
 #fotonove{
-    height: 310px;
-    margin: 3%;
+    width: 200px;
+    margin: 5%;
 }
 
 #txtnove{
@@ -211,7 +216,7 @@ body{
 }
 
 #fotodez{
-    height: 310px;
+    height: 350px;
     margin: 3%;
 }
 
@@ -224,43 +229,12 @@ body{
 }
 
 #rodape{
-    color: rgba(174, 241, 180, 0.952);
+    color: #000000;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     text-align: center; 
-}
-
-/*#fotoum{
-    height: 300px;
+    padding: 5%;
     margin: 3%;
-    border-radius: 10%;
-
+    background-color: rgba(174, 241, 180, 0.952);
 }
-
-#legum{
-    color: white;
-    float: left;
-    width: 15%;
-    border: thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-}
-
-#fotodois{
-    height: 300px;
-    margin: 3%;
-    border-radius: 10%;
-}
-
-#fototres{
-    height: 300px;
-    margin: 3%;
-    border-radius: 10%;
-}
-
-#fotoquatro{
-    height: 250px;
-    margin: 3%;
-    border-radius: 3%;
-}/*
