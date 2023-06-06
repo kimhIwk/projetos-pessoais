@@ -11,7 +11,6 @@ body{
     text-align: center;
     background-color: rgba(174, 241, 180, 0.952);
     /*margin: 3%;*/
-    display: flex;
 } 
 
 #titulo{
@@ -21,7 +20,6 @@ body{
     text-align: center;   
     background-color: rgb(133, 194, 218); 
     /*margin: 3%;*/
-    display: flex;
 }
 
 .container{
@@ -58,7 +56,7 @@ body{
     height: 350px;
     margin: 3%;
 }
-Como 
+
 #txtdois{
     background-color: #000000;
     color: #fff;
@@ -228,6 +226,5 @@ Como
     text-align: center; 
     /*padding: 5%;
     margin: 3%;*/
-    display: flex;
     background-color: rgba(174, 241, 180, 0.952);
 }
