@@ -28,7 +28,6 @@ body{
 }
 
 #um{
-    border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
     max-width: 220px;
@@ -48,7 +47,6 @@ body{
 }
 
 #dois{
-    border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
     max-width: 220px;
@@ -68,7 +66,6 @@ body{
 }
 
 #tres{
-    border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
     max-width: 220px;
@@ -88,7 +85,7 @@ body{
 }
 
 #quatro{
-    border: thin #c0c0c0 solid;
+
     display: -webkit-flex;
     flex-flow: column;
     max-width: 235px;
@@ -109,7 +106,6 @@ body{
 }
 
 #cinco{
-    border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
     max-width: 220px;
@@ -121,7 +117,6 @@ body{
 }
 
 #txtcinco{
-    background-color: #000000;
     color: #fff;
     font: italic smaller sans-serif;
     padding: 3px;
@@ -129,7 +124,6 @@ body{
 }
 
 #seis{
-    border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
     max-width: 220px;
@@ -149,7 +143,6 @@ body{
 }
 
 #sete{
-    border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
     max-width: 220px;
@@ -169,7 +162,6 @@ body{
 }
 
 #oito{
-    border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
     max-width: 425px;
@@ -189,7 +181,6 @@ body{
 }
 
 #nove{
-    border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
     max-width: 220px;
@@ -209,7 +200,6 @@ body{
 }
 
 #dez{
-    border: thin #c0c0c0 solid;
     display: -webkit-flex;
     flex-flow: column;
     max-width: 220px;
